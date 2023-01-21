@@ -1,0 +1,46 @@
+{
+  "id": 67184313,
+  "assets": [
+    {
+      "id": "1520630750...",
+      "url":
+      "lastModified": 1674199392306#,
+      "sponsored": false,
+      "headline": 5,
+      "theAbstract: ..
+      "byLine": "Tony Boyd",
+      "numberOfComments": 0,
+      "relatedImages": [
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.landscape.1174x783.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1674199392384
+        }
+      ],
+      "assetType": "ARTICLE",
+      "timeStamp": 1674181368000
+    }
+  ],
+  "assetType": "ASSET_LIST##"
+}

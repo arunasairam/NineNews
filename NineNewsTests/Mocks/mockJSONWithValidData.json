@@ -1,0 +1,320 @@
+{
+  "id": 67184313,
+  "assets": [
+    {
+      "id": 1520630750,
+      "url": "http://www.afr.com/opinion/columns/global-recession-the-great-debate-20230119-p5ce72",
+      "lastModified": 1674199392306,
+      "sponsored": false,
+      "headline": "Wall Street insiders split on doom or Goldilocks outlook",
+      "theAbstract": "Two leading strategists at Macquarie Securities and JP Morgan have opposite views about a US recession. One of them will be right.",
+      "byLine": "Tony Boyd",
+      "numberOfComments": 0,
+      "relatedImages": [
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.wideLandscape.1500x844.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1674199392384
+        },
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.thumbnail.375x250.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1674199392384
+        },
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.afrArticleLead.1536x1010.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1674199392384
+        },
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.articleLeadwide.1500x844.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1674199392384
+        },
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.afrIndexLead.1536x1010.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1674199392384
+        },
+        {
+          "id": 1031718180,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/2/9/a/u/c/image.related.landscape.1174x783.p5ce72.13zzqx.png/1674200811398.jpg",
+          "lastModified": 1674199392384,
+          "sponsored": false,
+          "description": "Experts are divided over whether the United States economy will have a hard landing.",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1674199392384
+        }
+      ],
+      "assetType": "ARTICLE",
+      "timeStamp": 1674181368000
+    },
+    {
+      "id": 1520620496,
+      "url": "http://www.afr.com/news/how-wealthy-are-you-compared-to-everyone-else-in-eight-charts-20221214-p5c6a8",
+      "lastModified": 1674183097391,
+      "sponsored": false,
+      "headline": "How wealthy are you compared to everyone else (in eight charts)?",
+      "theAbstract": "Does an income over $180,000 make you rich? That is one of the key questions posed in the debate around the future of stage three tax cuts.",
+      "byLine": "Michael Read",
+      "numberOfComments": 0,
+      "relatedImages": [
+        {
+          "id": 1030628341,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/x/x/1/image.related.wideLandscape.1500x844.p5c6a8.13zzqx.png/1674200811398.gif",
+          "lastModified": 1582165249803,
+          "sponsored": false,
+          "description": "Critics say stage three tax cuts mainly benefits high-income earners.",
+          "photographer": "Les Hewitt",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1582165249388
+        },
+        {
+          "id": 1030628341,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/x/x/1/image.related.thumbnail.375x250.p5c6a8.13zzqx.png/1674200811398.gif",
+          "lastModified": 1582165249803,
+          "sponsored": false,
+          "description": "Critics say stage three tax cuts mainly benefits high-income earners.",
+          "photographer": "Les Hewitt",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1582165249388
+        },
+        {
+          "id": 1030628341,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/x/x/1/image.related.afrArticleLead.1536x1010.p5c6a8.13zzqx.png/1674200811398.gif",
+          "lastModified": 1582165249803,
+          "sponsored": false,
+          "description": "Critics say stage three tax cuts mainly benefits high-income earners.",
+          "photographer": "Les Hewitt",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1582165249388
+        },
+        {
+          "id": 1030628341,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/x/x/1/image.related.articleLeadwide.1500x844.p5c6a8.13zzqx.png/1674200811398.gif",
+          "lastModified": 1582165249803,
+          "sponsored": false,
+          "description": "Critics say stage three tax cuts mainly benefits high-income earners.",
+          "photographer": "Les Hewitt",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1582165249388
+        },
+        {
+          "id": 1030628341,
+          "categories": [
+            
+          ],
+          "brands": [
+            
+          ],
+          "authors": [
+            
+          ],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/l/x/x/1/image.related.afrIndexLead.1536x1010.p5c6a8.13zzqx.png/1674200811398.gif",
+          "lastModified": 1582165249803,
+          "sponsored": false,
+          "description": "Critics say stage three tax cuts mainly benefits high-income earners.",
+          "photographer": "Les Hewitt",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1582165249388
+        },
+      ],
+      "assetType": "ARTICLE",
+      "timeStamp": 1674151200000
+    }
+  ],
+  "assetType": "ASSET_LIST"
+}
