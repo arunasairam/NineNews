@@ -11,7 +11,7 @@ import XCTest
 ///
 /// It has three tests:
 ///  - Test to check if the app navigates to Web View screen upon tapping collection view cell
-///  - Test to check if the Web View screen contains 'Progress bar', 'Refresh Button', 'Back Button', 'Share Button', 'Forward Button, 'Backward Button'
+///  - Test to check if the Web View screen contains 'Progress bar', 'Refresh Button', 'Back Button', 'Share Button', 'Backward Button', 'Forward Button,
 ///  - Test to check if the app pops the view controller and comes back to home screen upon tapping the back button
 
 class WebViewScreenUITests: XCTestCase {
@@ -57,7 +57,7 @@ class WebViewScreenUITests: XCTestCase {
     }
     
     
-    /// Test to check if the Web View screen contains 'Progress bar', 'Refresh Button', 'Back Button', 'Share Button', 'Backward Button',  'Forward Button'.
+    /// Test to check if the Web View screen contains 'Progress bar', 'Refresh Button', 'Back Button', 'Share Button', 'Backward Button', 'Forward Button'.
     
     func testCheckProgressBarRefreshBackButtonShareBackwardForwardButtons() {
         
